@@ -1,5 +1,5 @@
 /**@description：
- * @author：Wangzhixuan
- * @date：2015年8月10日 下午10:23:34
+ * @author：guoconglin
+ * @date：2017/05/25
  */
 package com.gcl.vo;

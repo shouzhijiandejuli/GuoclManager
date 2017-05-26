@@ -2,8 +2,8 @@ package com.gcl.utils;
 
 /**
  * @description：系统参数
- * @author：Wangzhixuan
- * @date：2015年8月13日 下午9:18:11
+ * @author：guoconglin
+ * @date：2017/05/25
  */
 public interface Config {
 

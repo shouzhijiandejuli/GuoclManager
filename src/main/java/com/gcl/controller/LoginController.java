@@ -21,8 +21,8 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * @description：登录退出
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * @author：guoconglin
+ * @date：2017/05/26 14:51
  */
 @Controller
 public class LoginController {

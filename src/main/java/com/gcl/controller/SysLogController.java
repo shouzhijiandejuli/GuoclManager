@@ -16,7 +16,7 @@ import java.util.Map;
 
 /**
  * @description：日志管理
- * @author：zhixuan.wang
+ * @author：guoconglin
  * @date：2015/10/30 18:06
  */
 @Controller

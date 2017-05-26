@@ -3,9 +3,11 @@ package com.gcl.code;
 import java.io.Serializable;
 
 /**
- * @description：操作结果集
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * 
+ * @ClassName: Result 
+ * @Description: 操作结果集
+ * @author: guoconglin
+ * @date: 2017年5月24日 下午3:18:14
  */
 public class Result implements Serializable {
 

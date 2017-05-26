@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * @description：测试Controller
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * @author：guoconglin
+ * @date：2017/05/26 14:51
  */
 @Controller
 @RequestMapping("/test")

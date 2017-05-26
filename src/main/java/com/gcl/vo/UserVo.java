@@ -9,8 +9,8 @@ import java.util.List;
 
 /**
  * @description：UserVo
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * @author：guoconglin
+ * @date：2017/05/25 14:51
  */
 public class UserVo implements Serializable {
     private Long id;

@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 /**
  * @description：角色
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * @author：guoconglin
+ * @date：2017/05/25 14:51
  */
 public class Role implements Serializable {
 

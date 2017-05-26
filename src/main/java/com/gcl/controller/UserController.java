@@ -25,8 +25,8 @@ import java.util.Map;
 
 /**
  * @description：用户管理
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * @author：guoconglin
+ * @date：2017/05/26 14:51
  */
 @Controller
 @RequestMapping("/user")

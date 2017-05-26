@@ -5,8 +5,8 @@ import com.gcl.utils.PageInfo;
 
 /**
  * @description：操作日志
- * @author：zhixuan.wang
- * @date：2015/10/30 10:35
+ * @author：guoconglin
+ * @date：2017/05/26 10:35
  */
 public interface LogService {
 

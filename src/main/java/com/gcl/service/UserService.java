@@ -6,8 +6,8 @@ import com.gcl.vo.UserVo;
 
 /**
  * @description：用户管理
- * @author：zhixuan.wang
- * @date：2015/10/1 14:51
+ * guoconglin.wang
+ * @date：2017/05/26 14:51
  */
 public interface UserService {
     /**

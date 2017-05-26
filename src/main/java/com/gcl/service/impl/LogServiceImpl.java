@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 
 /**
  * @description：
- * @author：zhixuan.wang
- * @date：2015/10/30 10:40
+ * @author：guoconglin
+ * @date：2017/05/25 10:40
  */
 @Service
 public class LogServiceImpl implements LogService {
